@@ -6,4 +6,4 @@ except:
 else :
     print("nothing went wrong")
 
-# x ရဲ့တန်းဖိုးက int တာ ဘဲ ဖြစ်ရမယ်။
+# x ရဲ့တန်းဖိုးက int တာ ဘဲ ဖြစ်ရမယ်။gi
